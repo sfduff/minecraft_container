@@ -1,4 +1,4 @@
-# docker_minecraft
+# minecraft_container
 
 The run.sh script will use its parent folders name for the container, server and levels name, therefore when using it always run it from within its root folder.
 
