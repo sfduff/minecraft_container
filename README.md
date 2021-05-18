@@ -4,7 +4,7 @@ The run.sh script will use its parent folders name for the container, server and
 
 Clone this repo to a new folder on the docker host system.  For example to create a container, server and level called 'bazinga' use the following..
 
-    git clone https://github.com/sfduff/docker_minecraft.git bazinga
+    git clone https://github.com/sfduff/minecraft_container.git bazinga
 
 In the new folder make the shell script executable
 
